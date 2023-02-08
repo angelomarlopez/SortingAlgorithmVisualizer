@@ -1,0 +1,4 @@
+.vscode
+
+# Ignores all object Files
+*.o
