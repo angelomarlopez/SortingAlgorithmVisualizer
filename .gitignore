@@ -2,3 +2,4 @@
 
 # Ignores all object Files
 *.o
+output
